@@ -1,0 +1,11 @@
+#! /usr/bin/bash
+
+
+
+
+
+
+product() {
+echo $(( 20*10))
+}
+product
